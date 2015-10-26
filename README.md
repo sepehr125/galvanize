@@ -1,3 +1,3 @@
 # galvanize
-Coursework
+Coursework and Notes
 
